@@ -16,7 +16,6 @@
      
         public decimal NewPrice { get; set; }
        
-      
         public IFormFile NewImage { get; set; }
     }
 }
